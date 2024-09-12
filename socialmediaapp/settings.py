@@ -125,7 +125,14 @@ USE_I18N = True
 
 USE_TZ = True
 
-ALLOWED_HOSTS = ['*']
+# settings.py
+
+ALLOWED_HOSTS = [
+    'the-social-comany-backend-cvnzk42oc-vishva2003s-projects.vercel.app',
+    'localhost',
+    '127.0.0.1',
+]
+
 
 
 # Static files (CSS, JavaScript, Images)
