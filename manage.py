@@ -2,6 +2,9 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+from socialmediaapp.wsgi import application  # Replace `myproject` with your actual project name
+app = application
+
 
 
 def main():
