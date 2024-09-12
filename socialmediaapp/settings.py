@@ -128,7 +128,7 @@ USE_TZ = True
 # settings.py
 
 ALLOWED_HOSTS = [
-    'the-social-comany-backend-cvnzk42oc-vishva2003s-projects.vercel.app',
+    'the-social-comany-backend.vercel.app',
     'localhost',
     '127.0.0.1',
 ]
